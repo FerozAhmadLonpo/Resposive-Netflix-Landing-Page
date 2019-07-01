@@ -379,7 +379,7 @@ margin-bottom: 1rem;
     top: 50%;
     right: 0;
     left: 80%;
-    text-anchor: middle;
+    /* text-anchor: middle; */
     transform: translate(-50%,-50%);
   }
 
